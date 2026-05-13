@@ -3,5 +3,13 @@
   "contact_address": "CTVision, 65 St Helier Avenue, Morden, SM4 6HY, United Kingdom",
   "version": "1.0",
   "identifiers": [],
-  "sellers": []
+  "sellers": [
+    {
+      "seller_id": "tcl-001",
+      "name": "TCL Channel",
+      "domain": "tcl.com",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0
+    }
+  ]
 }
