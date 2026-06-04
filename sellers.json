@@ -4,12 +4,7 @@
   "version": "1.0",
   "identifiers": [],
   "sellers": [
-    {
-      "seller_id": "tcl-001",
-      "name": "TCL Channel",
-      "domain": "tcl.com",
-      "seller_type": "PUBLISHER",
-      "is_confidential": 0
-    }
+    { "seller_id": "tcl-001", "name": "TCL Channel", "domain": "tcl.com", "seller_type": "PUBLISHER", "is_confidential": 0 },
+    { "seller_id": "whaletv-001", "name": "Whale TV", "domain": "whaletv.com", "seller_type": "PUBLISHER", "is_confidential": 0 }
   ]
 }
